@@ -1,0 +1,1 @@
+SELECT * FROM questions JOIN anwsers ON questions.id=anwsers.id
